@@ -1,16 +1,18 @@
-## Hi there 👋
+# Lucas Ferreira
 
-<!--
-**eulucasfs/eulucasfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**'Desenvolvedor Back-end'**
 
-Here are some ideas to get you started:
+Olá, eu sou Lucas Ferreira 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou **Desenvolvedor Back-end Júnior**, apaixonado por tecnologia e desenvolvimento de soluções através da programação.
+
+Tenho conhecimentos em **JavaScript, Python, SQL, HTML, CSS e Git**, e estou constantemente buscando evoluir minhas habilidades e aprender novas tecnologias.
+
+🚀 Meu objetivo é desenvolver aplicações eficientes, organizadas e funcionais, além de crescer profissionalmente na área de desenvolvimento back-end.
+
+💻 **Área:** Desenvolvimento Back-end
+📚 **Nível:** Júnior
+🛠️ **Tecnologias:** JavaScript • Python • SQL • Git • HTML • CSS
+
+Estou em busca de oportunidades para colocar meus conhecimentos em prática, contribuir com projetos reais e continuar evoluindo como desenvolvedor.
+
