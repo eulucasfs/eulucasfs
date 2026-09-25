@@ -21,8 +21,6 @@ Sou **Desenvolvedor Back-end Júnior**, apaixonado por tecnologia e desenvolvime
   
   <img src="https://img.shields.io/badge/python%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/sql%20-%2343853D.svg?&style=for-the-badge&logo=sql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/git%20-%2343853D.svg?&style=for-the-badge&logo=ngit&logoColor=white"/>
     
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
     <br/>
