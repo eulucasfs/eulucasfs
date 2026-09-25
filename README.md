@@ -15,7 +15,7 @@ Tenho conhecimentos em **JavaScript, Python, SQL, HTML, CSS e Git**, e estou con
 🛠️ **Tecnologias:** JavaScript • Python • SQL • Git • HTML • CSS
 
 <p align="center">
-  <a href="https://github.com/eulucasfs" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@alwinw-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+  <a href="https://github.com/eulucasfs" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@eulucasfs-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 
 Estou em busca de oportunidades para colocar meus conhecimentos em prática, contribuir com projetos reais e continuar evoluindo como desenvolvedor.
 
