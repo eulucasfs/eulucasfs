@@ -23,7 +23,7 @@ Tenho conhecimentos em **JavaScript, Python, SQL, HTML, CSS e Git**, e estou con
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
   
 
