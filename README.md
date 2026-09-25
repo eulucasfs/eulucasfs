@@ -11,9 +11,9 @@ Sou **Desenvolvedor Back-end Júnior**, apaixonado por tecnologia e desenvolvime
 💻 **Área:** Desenvolvimento Back-end
 📚 **Nível:** Júnior
 
-<p aling="center">
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eulucasfs/)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eulucasfs/)
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eulucasfs/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eulucasfs/)
 
   <h3>Me divertindo com essas tecnologias 👨🏽‍💻</h3>
 <div>
