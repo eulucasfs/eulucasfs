@@ -12,24 +12,25 @@ Tenho conhecimentos em **JavaScript, Python, SQL, HTML, CSS e Git**, e estou con
 
 💻 **Área:** Desenvolvimento Back-end
 📚 **Nível:** Júnior
-🛠️ **Tecnologias:** JavaScript • Python • SQL • Git • HTML • CSS
-
-<p align="center">
-  <a href="https://github.com/eulucasfs" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@eulucasfs-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/eulucasfs" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-
-<p align="center">
-
-### **Me divertindo com essas tecnologias 👨🏽‍💻**
-  <img src="https://img.shields.io/badge/python%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<div>
   
-  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-  <br/>
-  <div>
-    <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  </div>
+  ### **Me divertindo com essas tecnologias 👨🏽‍💻**
+  <p align="center">
+    <a href="https://github.com/eulucasfs" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@eulucasfs-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/eulucasfs" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+  
+  <p align="center">
+  
+    <img src="https://img.shields.io/badge/python%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+    
+    <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+    <br/>
+    <div>
+      <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+    </div>
+</div>
 
   
 
