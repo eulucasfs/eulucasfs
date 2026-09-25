@@ -13,7 +13,7 @@ Tenho conhecimentos em **JavaScript, Python, SQL, HTML, CSS e Git**, e estou con
 💻 **Área:** Desenvolvimento Back-end
 📚 **Nível:** Júnior
 
-  <div>### **Me divertindo com essas tecnologias 👨🏽‍💻**</div>
+  <div><br>### **Me divertindo com essas tecnologias 👨🏽‍💻**</div>
 <div>
     <p align="center">
     <a href="https://github.com/eulucasfs" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@eulucasfs-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
