@@ -18,8 +18,6 @@ Sou **Desenvolvedor Back-end Júnior**, apaixonado por tecnologia e desenvolvime
   <h3>Me divertindo com essas tecnologias 👨🏽‍💻</h3>
 <div>
     <p align="center">
-    <a></a>[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eulucasfs/)</a> 
-    [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eulucasfs/)
     <a href="https://github.com/eulucasfs" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@eulucasfs-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/eulucasfs" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
 
